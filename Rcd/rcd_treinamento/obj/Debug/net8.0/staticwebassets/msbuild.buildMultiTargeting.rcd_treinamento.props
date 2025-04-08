@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\rcd_treinamento.props" />
+</Project>
